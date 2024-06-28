@@ -1,0 +1,6 @@
+@AvaliacaoCsharp_HostAddress = http://localhost:5201
+
+GET {{AvaliacaoCsharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

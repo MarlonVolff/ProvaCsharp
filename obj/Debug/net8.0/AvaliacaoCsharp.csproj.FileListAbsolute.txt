@@ -1,0 +1,7 @@
+C:\Users\autologon\Documents\AvaliaçãoCsharp\AvaliacaoCsharp\obj\Debug\net8.0\AvaliacaoCsharp.csproj.AssemblyReference.cache
+C:\Users\autologon\Documents\AvaliaçãoCsharp\AvaliacaoCsharp\obj\Debug\net8.0\AvaliacaoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Documents\AvaliaçãoCsharp\AvaliacaoCsharp\obj\Debug\net8.0\AvaliacaoCsharp.AssemblyInfoInputs.cache
+C:\Users\autologon\Documents\AvaliaçãoCsharp\AvaliacaoCsharp\obj\Debug\net8.0\AvaliacaoCsharp.AssemblyInfo.cs
+C:\Users\autologon\Documents\AvaliaçãoCsharp\AvaliacaoCsharp\obj\Debug\net8.0\AvaliacaoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\AvaliaçãoCsharp\AvaliacaoCsharp\obj\Debug\net8.0\AvaliacaoCsharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\autologon\Documents\AvaliaçãoCsharp\AvaliacaoCsharp\obj\Debug\net8.0\AvaliacaoCsharp.MvcApplicationPartsAssemblyInfo.cache
